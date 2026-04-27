@@ -16,7 +16,7 @@ NetGuardian is a Python-based network monitoring tool designed to track the upti
 ## Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/NetGuardian.git
+   git clone https://github.com/aspirindev7-ops/NetGuardian.git
    ```
 2. Run the monitor:
    ```bash
